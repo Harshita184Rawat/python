@@ -1,3 +1,7 @@
+# We use modules to better organize our code, instead of writing 
+# all The functions in one file we break our code across multiple
+# files each file is called a module and it should contain all the 
+# related fuctions and classes and then we can import one into another module
 class Length:
 
     def meter_to_km(self, value):
