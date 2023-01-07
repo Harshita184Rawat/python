@@ -1,4 +1,8 @@
-Packages are collection of realted modules (i.e mutiple files)
-A package in a file system is a folder or directory
-To convert a directory into package add '__init__.py' file and the
-python interpreter will treat this directory as a package
+-Packages are collection of realted modules (i.e mutiple files)
+-A package in a file system is a folder or directory
+-To convert a directory into package add '__init__.py' file and the
+ python interpreter will treat this directory as a package
+ - we can either import the whole package or a specific module or a specific fuction
+
+ # lets create a package named ecommerce
+ 
