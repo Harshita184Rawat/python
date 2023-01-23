@@ -6,8 +6,7 @@ class person:
         print(f"Hello It's {name} !")
         print('''How I can help you?
         press 1 to get the list of cmds
-        press 2 to skip'''
-              )
+        press 2 to skip''')
         step2 = input(">")
         if(step2=="1"):
             print('''! Enter the cmds to get their manual !
