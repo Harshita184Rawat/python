@@ -5,6 +5,6 @@
 string=input('Enter a string: ')
 print(f'Original string is {string} ')
 n=len(string)
-print()
+print('Printing Even characters')
 for i in range(0, n-1, 2):
     print("index[", i, "]", string[i])
